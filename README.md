@@ -10,3 +10,7 @@ NLP algorithms
 
 #### Loss function
 - [CTC(Connectionist Temporal Classification)](https://distill.pub/2017/ctc/)
+
+
+#### Datasets
+#### Applications
